@@ -119,7 +119,7 @@ body {
 
 .balloon {
     position: absolute;
-    font-size: 70px; /* Adjust size as needed */
+    font-size: 40px; /* Adjust size as needed */
     animation: moveUp 10s linear infinite;
     z-index: -1;
 }
