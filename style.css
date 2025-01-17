@@ -141,6 +141,10 @@ body {
     z-index: 100;
 }
 
+.bd-text{
+    max-width: 60%;
+}
+
 
 
   
