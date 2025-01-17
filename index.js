@@ -97,7 +97,7 @@ function func() {
         btnDiv.removeChild(btn)
 
         var msg = document.createElement("h1");
-        msg.textContent = "HAPPY BIRTHDAYYY BROO"
+        msg.textContent = "Happyyyyyyyyyyyyyyyyyyyyyyy Birthdayyyyyyyyyyyyyyyyy🎂🎂🎂🥳🥳🥳🥳🥳🥳🍰🍰🍰🍰🍰🧁🧁🧁🧁🧁🧁 Begairat😌 May you have many many more returns of the day. Be blessed, successful and healthy alwaysssss 🤲🏻✨✨. You're really the best person I met in uni and I am so glad I made you my friend. I cherish all the memories which we have together ( events me awara phirna 😂 wo nashty wo mini mart ki fries etc etc 🤣) I enjoy my time whenever I am with you. You really make my uni life a "little" bit 😂😅 better, those laughter we have together, wo teachers me or subject me kery nikalna 🤣 bohut maza ata h ap k sath 😘 Please never stop being my friend 🥺 Again ALLAH apko hamesha salamat rkhy or har cheez me kamyab kry ✨ Today is your day, enjoy the best out of it bro 💙💙💙"
         parentElement.appendChild(msg);
     }
 
