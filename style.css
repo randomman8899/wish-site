@@ -153,7 +153,7 @@ h1 {
 /* Media query for mobile devices */
 @media (max-width: 600px) {
     .bd-text {
-        font-size: 24px; /* Adjusted font size for mobile devices */
+        font-size: 10px; /* Adjusted font size for mobile devices */
     }
 }
 
