@@ -145,6 +145,19 @@ body {
     max-width: 60%;
 }
 
+/* Default styling for h1 */
+h1 {
+    font-size: 36px; /* Default font size */
+}
+
+/* Media query for mobile devices */
+@media (max-width: 600px) {
+    .bd-text {
+        font-size: 24px; /* Adjusted font size for mobile devices */
+    }
+}
+
+
 
 
   
